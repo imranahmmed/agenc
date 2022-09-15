@@ -4,6 +4,7 @@ tailwind.config = {
             colors: {
                 'clifford': '#da373d',
                 'primary': '#6A4DF4',
+                'primarylight': '#f4f2ff',
                 'tomato': '#FA6444',
                 'green': '#13B237',
                 'yellow': '#F9BD2C',
